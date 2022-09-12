@@ -1,0 +1,53 @@
+
+
+.nav-link{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-bottom:300px ;
+   
+}
+.container-fluid{
+    margin-top: -7px;
+}
+.navbar-nav{
+    margin-left: 900px;
+    height:70px ;
+    
+}
+.container-central{
+    display: flex;
+    margin-left:100px;
+    
+}
+.card-body{
+    margin-top:50px ;
+    margin-left:20px ;
+}
+.card{
+    margin-top:100px ;
+    margin-left:30px ;
+}
+.nav-link{
+    margin-top:10px ;
+   
+}
+
+.titulocadastro{
+    margin-left:80px ;
+    font-weight: bolder;
+}
+.form-control{
+    width: 500px;
+    height: 50px;
+}
+
+.linkhome{
+    margin-left:1400px ;
+    text-decoration: none;
+    
+}
+
+.titulocontrole{
+    margin-top: 50px;
+    color:rgb(9, 37, 107) ;
+}
